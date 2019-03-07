@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/gupao-vip-pattern-factory.iml" filepath="$PROJECT_DIR$/gupao-vip-pattern-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gupaovip.iml" filepath="$PROJECT_DIR$/.idea/gupaovip.iml" />
     </modules>
   </component>
 </project>
